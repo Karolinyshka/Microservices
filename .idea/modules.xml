@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroServices.iml" filepath="$PROJECT_DIR$/.idea/MicroServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-catalog/product-catalog/product-catalog.iml" filepath="$PROJECT_DIR$/product-catalog/product-catalog/product-catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoping-cart/shoping-cart/shoping-cart.iml" filepath="$PROJECT_DIR$/shoping-cart/shoping-cart/shoping-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user/user.iml" filepath="$PROJECT_DIR$/user/user/user.iml" />
+    </modules>
+  </component>
+</project>
